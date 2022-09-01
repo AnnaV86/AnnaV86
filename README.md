@@ -1,4 +1,4 @@
-Мой стек: HTML / CSS / React / Redux / TypeScrypt / JavaScrypt
+Мой стек: HTML / CSS (SASS/SCSS) / React / Redux / TypeScrypt / JavaScrypt
 
 ![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
