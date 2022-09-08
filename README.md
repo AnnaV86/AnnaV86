@@ -4,6 +4,6 @@
 
 https://t.me/iAnna1986
 
-![codewars](https://www.codewars.com/users/AnnaV86/badges/large)
+![codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=AnnaV86&card&colormode=dark_mode)
 
 https://www.codewars.com/users/AnnaV86
